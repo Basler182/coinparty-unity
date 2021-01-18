@@ -45,11 +45,16 @@ We have to make do with what we have. Be prepared for a minimum viable product f
 ## SLP BCH Wallets
 
 <img src="https://github.com/Basler182/coinparty-unity/blob/main/wallet/slp_kilian.jpg" width="250">
-Kilian: qq3kytzc8gc7a2kev7rcafy97q0qt9jznvg8s4j8uy
+<img src="https://github.com/Basler182/coinparty-unity/blob/main/wallet/bch_kilian.jpg" width="250">
+Kilian: 
+slp: qq3kytzc8gc7a2kev7rcafy97q0qt9jznvg8s4j8uy
+bitcoincash:qrdvu4ht5yaguzqt3u4jf7kc0sm88h45rgpxtgntdn
 
 <img src="https://github.com/Basler182/coinparty-unity/blob/main/wallet/slp_curtis.png" width="250">
-Curtiss simpleledger:qzu4zwcq6sfatnpgteawl3a73nezlgcjsyvrpkdakx
-
+<img src="https://github.com/Basler182/coinparty-unity/blob/main/wallet/bch_curtis.png" width="250">
+Curtiss 
+slp:qzu4zwcq6sfatnpgteawl3a73nezlgcjsyvrpkdakx
+bitcoincash:qzu4zwcq6sfatnpgteawl3a73nezlgcjsyqc2dcagc  
 ## Screens
 
 Tracking                   |  Finished
