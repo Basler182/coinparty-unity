@@ -52,10 +52,8 @@ Curtiss simpleledger:qzu4zwcq6sfatnpgteawl3a73nezlgcjsyvrpkdakx
 
 ## Screens
 
-![](https://github.com/Basler182/coinparty-unity/blob/main/home.png)
-
-![](https://github.com/Basler182/coinparty-unity/blob/main/tracking.png)
-
-![](https://github.com/Basler182/coinparty-unity/blob/main/finished.png)
+Tracking                   |  Finished
+:-------------------------:|:-------------------------:
+![](https://github.com/Basler182/coinparty-unity/blob/main/tracking.png)  |  ![](https://github.com/Basler182/coinparty-unity/blob/main/finished.png)
 
 ![](https://github.com/Basler182/coinparty-unity/blob/main/leaderboard.png)
