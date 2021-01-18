@@ -47,9 +47,11 @@ We have to make do with what we have. Be prepared for a minimum viable product f
 
 Kilian              |  Curtiss
 :-------------------------:|:-------------------------:
-![](https://github.com/Basler182/coinparty-unity/blob/main/wallet/slp_kilian.jpg) 
-qrdvu4ht5yaguzqt3u4jf7kc0sm88h45rgpxtgntdn|  ![](https://github.com/Basler182/coinparty-unity/blob/main/wallet/slp_curtis.pngg)
-simpleledger:qzu4zwcq6sfatnpgteawl3a73nezlgcjsyvrpkdakx
+![](https://github.com/Basler182/coinparty-unity/blob/main/wallet/slp_kilian.jpg | width = 150 ) |  ![](https://github.com/Basler182/coinparty-unity/blob/main/wallet/slp_curtis.png | width = 150)
+
+Curtiss simpleledger:qzu4zwcq6sfatnpgteawl3a73nezlgcjsyvrpkdakx
+Kilian: qq3kytzc8gc7a2kev7rcafy97q0qt9jznvg8s4j8uy
+
 
 ## Screens
 
