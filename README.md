@@ -44,10 +44,10 @@ We have to make do with what we have. Be prepared for a minimum viable product f
 
 ## SLP BCH Wallets
 
-![](https://github.com/Basler182/coinparty-unity/blob/main/wallet/slp_kilian.jpg | width = 150) 
+<img src="https://github.com/Basler182/coinparty-unity/blob/main/wallet/slp_kilian.jpg" width="150">
 Kilian: qq3kytzc8gc7a2kev7rcafy97q0qt9jznvg8s4j8uy
 
-![](https://github.com/Basler182/coinparty-unity/blob/main/wallet/slp_curtis.png | width = 150)
+<img src="https://github.com/Basler182/coinparty-unity/blob/main/wallet/slp_curtis.png" width="150">
 Curtiss simpleledger:qzu4zwcq6sfatnpgteawl3a73nezlgcjsyvrpkdakx
 
 ## Screens
